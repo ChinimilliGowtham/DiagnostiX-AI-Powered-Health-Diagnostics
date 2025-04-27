@@ -1,5 +1,3 @@
-🩺 AI-Powered Health Diagnostics
-
 # 🩺 AI-Powered Health Diagnostics  
 
 ![Python](https://img.shields.io/badge/Built%20With-Python-3776AB?logo=python&logoColor=white)  
